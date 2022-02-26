@@ -3,4 +3,6 @@ members = [
     "server",
     "mars_calc",
     "memory_management",
+    "mars_calc_mine",
+    "server_mine",
 ]
