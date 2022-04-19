@@ -1,4 +1,4 @@
-pub use request::Request;
+pub use request::{Request, ParseError};
 pub use method::Method;
 pub use query_string::{QueryString, Value as QueryStringValue};
 pub use response::Response;
